@@ -9,10 +9,10 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by TIGER!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.gg/uCjmahY8hx                 ║
+║                          ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
@@ -29,10 +29,10 @@ module.exports = {
   run: async (client, interaction) => {
     try {
 
-      const supportServerLink = "https://discord.gg/xQF9f9yUEM";
-      const githubLink = "https://github.com/GlaceYT";
-      const replitLink = "https://replit.com/@GlaceYT";
-      const youtubeLink = "https://www.youtube.com/@GlaceYT";
+      const supportServerLink = "https://discord.gg/uCjmahY8hx";
+      const githubLink = "https://github.com/ahmad19982";
+      const replitLink = "https://replit.com";
+      const youtubeLink = "https://www.youtube.com";
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
             .setAuthor({
@@ -64,8 +64,8 @@ module.exports = {
 ║                                                                        ║
 ║  ## Created by GlaceYT!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.gg/uCjmahY8hx                  ║
+║                        ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
